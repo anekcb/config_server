@@ -1,9 +1,3 @@
-spring:
-  application:
-    name: math-client-api
-server:
-  port: 8080
-
 square-api:
   url: http://localhost:7001/square
 cube-api:
